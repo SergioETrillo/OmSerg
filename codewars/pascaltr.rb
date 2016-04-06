@@ -1,0 +1,2 @@
+def pascaltr
+end
